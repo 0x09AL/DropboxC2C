@@ -28,10 +28,12 @@ pyinstaller - pip install pyinstaller
 
 # Installation
 
-1-) Install the required libraries.
+1-) Clone the repository.
 
 2-) Modify the API Key on agent.py and main.py # The api key must be created from the dropbox web interface.
 
-3-) Use pyinstaller to create an exe for agent.py # pyinstall --onefile --uac-admin agent.py // There is a strange bug in pyinstaller and you need to provide --uac-admin otherwise the persistence won't work.
+3-) Run install.bat on a Windows Machine. You will get agent.exe which is the "compiled" agent.
 
-4-) Profit
+4-) Run main.py and run the agent on the compromised server.
+
+Video Coming Soon
