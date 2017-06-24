@@ -3,12 +3,13 @@ DropboxC2C is a post-exploitation agent which uses Dropbox Infrastructure for co
 
 DO NOT USE THIS FOR MALICIOUS PURPOSES. THE AUTHOR IS NOT RESPONSIBLE FOR ANY MISUSE OF THIS PROGRAM.
 
-Dropbox-C2 is an old project of mine to use a thirdparty for command and control. Since the guys at Empire implemented dropbox as a C2C i am releasing this.
+Dropbox-C2C is an old project of mine to use a thirdparty for command and control. Since the guys at Empire implemented dropbox as a C2C i am releasing this.
 
 # Structure
 
-The project is separated in only two parts.
+
 main.py - The "server" part which manages all the agents.
+
 agent.py - The "client" part which does what the server tells.
 
 I have removed the keylogging functions so this doesn't get missused.
@@ -19,12 +20,9 @@ Python 2.7
 
 
 Libraries
-
-dropbox - pip install dropbox
-
-psutil - pip install psutil
-
-pyinstaller - pip install pyinstaller
+dropbox 
+psutil
+pyinstaller
 
 # Installation
 
