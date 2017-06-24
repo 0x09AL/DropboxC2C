@@ -30,7 +30,7 @@ pyinstaller
 
 2-) Modify the API Key on agent.py and main.py # The api key must be created from the dropbox web interface.
 
-3-) Run install.bat on a Windows Machine. You will get agent.exe which is the "compiled" agent.
+3-) Run setup.bat on a Windows Machine. You will get agent.exe which is the "compiled" agent.
 
 4-) Run main.py and run the agent on the compromised server.
 
