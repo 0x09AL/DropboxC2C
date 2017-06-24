@@ -35,3 +35,19 @@ pyinstaller
 4-) Run main.py and run the agent on the compromised server.
 
 Video Coming Soon
+
+# Screenshots
+Screenshot - 1
+![ScreenShot](https://raw.github.com/0x09AL/DropboxC2C/master/screenshots/Screenshot-1.png)
+
+
+Screenshot - 2
+![ScreenShot](https://raw.github.com/0x09AL/DropboxC2C/master/screenshots/Screenshot-2.png)
+
+
+Screenshot - 3
+![ScreenShot](https://raw.github.com/0x09AL/DropboxC2C/master/screenshots/Screenshot-3.png)
+
+
+Screenshot - 4
+![ScreenShot](https://raw.github.com/0x09AL/DropboxC2C/master/screenshots/Screenshot-4.png)
