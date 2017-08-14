@@ -8,21 +8,19 @@ Dropbox-C2C is an old project of mine to use a thirdparty for command and contro
 # Structure
 
 
-main.py - The "server" part which manages all the agents.
+* main.py - The "server" part which manages all the agents.
 
-agent.py - The "client" part which does what the server tells.
+* agent.py - The "client" part which does what the server tells.
 
 I have removed the keylogging functions so this doesn't get missused.
 
 # Requirements
 
-Python 2.7
-
-
-Libraries
-dropbox 
-psutil
-pyinstaller
+* Python 2.7
+* Libraries
+  * dropbox
+  * psutil
+  * pyinstaller
 
 # Installation
 
